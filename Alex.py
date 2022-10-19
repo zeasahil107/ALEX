@@ -5,3 +5,4 @@ if bit == '64bit':
     import Alex
 elif bit == '32bit':
     print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
+MR-ALEX-X10202T3B7A110Y==
